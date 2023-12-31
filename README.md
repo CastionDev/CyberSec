@@ -13,6 +13,14 @@ Vetor de ataque: <code>2 - Web Site Attack Vectors</code> <br>
 Método de ataque: <code>3 - Credential Harvester Attack Method</code> <br> 
 Método de ataque: <code>2 - Site Cloner</code> <br>
 para encontrar o endereço ip da sua máquina só usar este comando no terminal: <code>ifconfig</code> <br>
-agora so inserir uma URL para clonar, aqui esta um exemplo: https://www.facebook.com <br>
-Resultado esperado: <br>
-![foto do resultado da aplicação](CyberSec/passwd.png "Resultado das senhas obtidas")
+agora só inserir uma URL para clonar, aqui esta um exemplo: https://www.instagram.com <br>
+
+=====================================================================
+
+<h1>Demonstração de como funciona um ransoware</h1>
+<li>arquivo encrypt</li>  
+  <ul>responsavel pela encriptação do arquivo infectado</ul> 
+<li>arquivo decrypt</li> 
+  <ul>responsável pela desencriptação do arquivo após o pagamento requerido</ul> 
+<li>discover.txt</li> 
+  <ul>arquivo alvo para infectação</ul>
