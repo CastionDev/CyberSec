@@ -17,7 +17,8 @@ agora só inserir uma URL para clonar, aqui esta um exemplo: https://www.instagr
 
 =====================================================================
 
-<h1>Demonstração de como funciona um ransoware</h1>
+<h1>Demonstração de como funciona um ransomware</h1>
+
 <li>arquivo encrypt</li>  
   <ul>responsavel pela encriptação do arquivo infectado</ul> 
 <li>arquivo decrypt</li> 
